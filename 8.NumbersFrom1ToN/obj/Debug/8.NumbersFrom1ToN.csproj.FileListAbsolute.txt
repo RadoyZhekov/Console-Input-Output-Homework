@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\Console-Input-Output-Homework\8.NumbersFrom1ToN\bin\Debug\8.NumbersFrom1ToN.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\Console-Input-Output-Homework\8.NumbersFrom1ToN\bin\Debug\8.NumbersFrom1ToN.exe
+c:\users\marto\documents\visual studio 2013\Projects\Console-Input-Output-Homework\8.NumbersFrom1ToN\bin\Debug\8.NumbersFrom1ToN.pdb
+c:\users\marto\documents\visual studio 2013\Projects\Console-Input-Output-Homework\8.NumbersFrom1ToN\obj\Debug\8.NumbersFrom1ToN.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\Console-Input-Output-Homework\8.NumbersFrom1ToN\obj\Debug\8.NumbersFrom1ToN.exe
+c:\users\marto\documents\visual studio 2013\Projects\Console-Input-Output-Homework\8.NumbersFrom1ToN\obj\Debug\8.NumbersFrom1ToN.pdb

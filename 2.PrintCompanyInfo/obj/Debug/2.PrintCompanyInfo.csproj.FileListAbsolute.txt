@@ -1,0 +1,5 @@
+c:\users\marto\documents\visual studio 2013\Projects\Console-Input-Output-Homework\2.PrintCompanyInfo\bin\Debug\2.PrintCompanyInfo.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\Console-Input-Output-Homework\2.PrintCompanyInfo\bin\Debug\2.PrintCompanyInfo.exe
+c:\users\marto\documents\visual studio 2013\Projects\Console-Input-Output-Homework\2.PrintCompanyInfo\bin\Debug\2.PrintCompanyInfo.pdb
+c:\users\marto\documents\visual studio 2013\Projects\Console-Input-Output-Homework\2.PrintCompanyInfo\obj\Debug\2.PrintCompanyInfo.exe
+c:\users\marto\documents\visual studio 2013\Projects\Console-Input-Output-Homework\2.PrintCompanyInfo\obj\Debug\2.PrintCompanyInfo.pdb

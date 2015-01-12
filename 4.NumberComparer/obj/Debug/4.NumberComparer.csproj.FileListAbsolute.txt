@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\Console-Input-Output-Homework\4.NumberComparer\bin\Debug\4.NumberComparer.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\Console-Input-Output-Homework\4.NumberComparer\bin\Debug\4.NumberComparer.exe
+c:\users\marto\documents\visual studio 2013\Projects\Console-Input-Output-Homework\4.NumberComparer\bin\Debug\4.NumberComparer.pdb
+c:\users\marto\documents\visual studio 2013\Projects\Console-Input-Output-Homework\4.NumberComparer\obj\Debug\4.NumberComparer.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\Console-Input-Output-Homework\4.NumberComparer\obj\Debug\4.NumberComparer.exe
+c:\users\marto\documents\visual studio 2013\Projects\Console-Input-Output-Homework\4.NumberComparer\obj\Debug\4.NumberComparer.pdb

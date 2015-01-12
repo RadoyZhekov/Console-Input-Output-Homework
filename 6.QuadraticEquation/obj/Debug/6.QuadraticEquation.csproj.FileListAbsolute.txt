@@ -1,0 +1,5 @@
+c:\users\marto\documents\visual studio 2013\Projects\Console-Input-Output-Homework\6.QuadraticEquation\bin\Debug\6.QuadraticEquation.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\Console-Input-Output-Homework\6.QuadraticEquation\bin\Debug\6.QuadraticEquation.exe
+c:\users\marto\documents\visual studio 2013\Projects\Console-Input-Output-Homework\6.QuadraticEquation\bin\Debug\6.QuadraticEquation.pdb
+c:\users\marto\documents\visual studio 2013\Projects\Console-Input-Output-Homework\6.QuadraticEquation\obj\Debug\6.QuadraticEquation.exe
+c:\users\marto\documents\visual studio 2013\Projects\Console-Input-Output-Homework\6.QuadraticEquation\obj\Debug\6.QuadraticEquation.pdb

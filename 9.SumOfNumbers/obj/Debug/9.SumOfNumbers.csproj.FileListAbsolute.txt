@@ -1,0 +1,5 @@
+c:\users\marto\documents\visual studio 2013\Projects\Console-Input-Output-Homework\9.SumOfNumbers\bin\Debug\9.SumOfNumbers.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\Console-Input-Output-Homework\9.SumOfNumbers\bin\Debug\9.SumOfNumbers.exe
+c:\users\marto\documents\visual studio 2013\Projects\Console-Input-Output-Homework\9.SumOfNumbers\bin\Debug\9.SumOfNumbers.pdb
+c:\users\marto\documents\visual studio 2013\Projects\Console-Input-Output-Homework\9.SumOfNumbers\obj\Debug\9.SumOfNumbers.exe
+c:\users\marto\documents\visual studio 2013\Projects\Console-Input-Output-Homework\9.SumOfNumbers\obj\Debug\9.SumOfNumbers.pdb
